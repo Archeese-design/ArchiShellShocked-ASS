@@ -1,12 +1,12 @@
 ### Hello stranger 👋
-If you see this you truly want something from me.
+If you see this, then you really want something from me.
 My name is Arthur and i web-designer.
 
 💬What i can help with?
 
-- Make design for your future website (wireframe, userflow, design, protopying)
+- Make design for your future website (wireframe, userflow, design, protopying and on and on)
 - And also code it from design template to make it work (IT JUST WORKS)
-- Make or redesign your presentation for shcool, business
+- Make or redesign your presentation for shcool, business (EVERYONE NEEDS IT)
 
 📫 Also my profiles on:
 
