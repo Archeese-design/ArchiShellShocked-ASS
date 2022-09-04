@@ -4,9 +4,9 @@ My name is Arthur and i web-designer.
 
 💬What i can help with?
 
-- Make design for website 
-- And also code your design templates
-- Make or rework your presentation for shcool, business
+- Make design for your future website (wireframe, userflow, design, protopying)
+- And also code it from design template to make it work (IT JUST WORKS)
+- Make or redesign your presentation for shcool, business
 
 📫 Also my profiles on:
 
