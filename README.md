@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hello stranger 👋
+If you see this you truly want something from me.
+My name is Arthur and i web-designer.
+
+💬What i can help with?
+
+- Make design for website 
+- And also code your design templates
+- Make or rework your presentation for shcool, business
+
+📫 Also my profiles on:
+
+CodePen: https://codepen.io/archishellshocked-ass
+Behance: Coming Soon
 
 <!--
 **ArchiShellShocked-ASS/ArchiShellShocked-ASS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
