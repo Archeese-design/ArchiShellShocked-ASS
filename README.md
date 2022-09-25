@@ -10,9 +10,8 @@ My name is Arthur and i web-designer.
 
 📫 Also my profiles on:
 
-CodePen: https://codepen.io/archishellshocked-ass
-Behance: Coming Soon
-
+[Behance](https://www.behance.net/Archeese)
+[CodePen](https://codepen.io/Archeese_design)
 <!--
 **ArchiShellShocked-ASS/ArchiShellShocked-ASS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
