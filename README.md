@@ -13,7 +13,7 @@ My name is Arthur and i web-designer.
 [Behance](https://www.behance.net/Archeese)
 [CodePen](https://codepen.io/Archeese_design)
 <!--
-**ArchiShellShocked-ASS/ArchiShellShocked-ASS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ArchiShellShocked** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
